@@ -82,5 +82,5 @@ This project analyzes coffee order data to generate insights about sales, custom
 ## 📫 Contact
 
 - 📧 Email: [amradelark@email.com](mailto:amradelark@email.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/amr-adel)
+- 💼 [LinkedIn](www.linkedin.com/in/amr-adel-333107278)
 
