@@ -1,8 +1,8 @@
-# ☕ Coffee Orders Data Analysis
+#  Coffee Orders Data Analysis
 
 This project analyzes coffee order data to generate insights about sales, customers, and product performance using **Microsoft Excel**.
 
-## 📁 Project Structure
+##  Project Structure
 
 | Sheet Name          | Description |
 |---------------------|-------------|
@@ -16,7 +16,7 @@ This project analyzes coffee order data to generate insights about sales, custom
 
 ---
 
-## 📊 Project Goals
+##  Project Goals
 
 - Clean and organize raw order data
 - Perform descriptive analysis on sales data
@@ -25,7 +25,7 @@ This project analyzes coffee order data to generate insights about sales, custom
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Microsoft Excel**
   - Pivot Tables
@@ -37,7 +37,7 @@ This project analyzes coffee order data to generate insights about sales, custom
 
 ---
 
-## 📌 Steps Taken
+##  Steps Taken
 
 ### 1. Data Cleaning
 - Removed empty rows and standardized column names
@@ -64,23 +64,23 @@ This project analyzes coffee order data to generate insights about sales, custom
 
 ---
 
-## ✅ Insights
+##  Insights
 
-- 💰 **Highest Sales Country:** United Kingdom
-- 📦 **Top-Selling Product:** Cappuccino
-- 🧍‍♂️ **Top Customer:** James Scott
-- 📈 Sales spike observed during December (seasonal trend)
+-  **Highest Sales Country:** United Kingdom
+-  **Top-Selling Product:** Cappuccino
+-  **Top Customer:** James Scott
+-  Sales spike observed during December (seasonal trend)
 
 ---
 
-## 📎 Project File
+##  Project File
 
 - `coffeeOrdersData project 2.xlsx`
 
 ---
 
-## 📫 Contact
+##  Contact
 
-- 📧 Email: [amradelark@email.com](mailto:amradelark@email.com)
-- 💼 [LinkedIn](www.linkedin.com/in/amr-adel-333107278)
+-  Email: [amradelark@email.com](mailto:amradelark@email.com)
+-  [LinkedIn](www.linkedin.com/in/amr-adel-333107278)
 
